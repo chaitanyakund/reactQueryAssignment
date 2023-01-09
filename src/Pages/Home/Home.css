@@ -1,0 +1,29 @@
+.getButton{
+    background-color: black;
+    color: white;
+    height: 24px;
+    width: 130px;
+    font-size: 14px;
+    font-weight: 700;
+    border-radius: 10px;
+}
+
+.todoContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: cornsilk;
+    
+}
+
+.nameText{
+    font-size: 16px;
+    font-weight: 700;
+    color: brown;
+
+}
+.mainDiv {
+    margin-left: 24px;
+    
+
+}

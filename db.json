@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "name": "chaitanya",
+      "number": "1",
+      "task": "React Query Assignment",
+      "id": 1
+    },
+    {
+      "name": "jhgf",
+      "number": "655",
+      "task": "jhgfcdfvbnmn",
+      "id": 2
+    }
+  ]
+}

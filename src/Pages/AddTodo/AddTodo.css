@@ -1,0 +1,28 @@
+.textInput {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.personInputContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inputContainer{
+    height: 23px;
+    width: 234px;
+    margin-left: 24px;
+}
+
+.getButton{
+    background-color: black;
+    color: white;
+    height: 24px;
+    width: 130px;
+    font-size: 14px;
+    font-weight: 700;
+    border-radius: 10px;
+}
